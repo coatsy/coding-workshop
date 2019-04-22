@@ -1,12 +1,12 @@
 # Drawing a Spiral
 
-[|< Home](../)  
+[|< Home](/)  
 [<< Previous: Drawing a Line](./spirals3.md)  
 [>> Next: More Challenges](./spirals5.md)
 
 
 
 
-[|< Home](../)  
+[|< Home](/)  
 [<< Previous: Drawing a Line](./spirals3.md)  
 [>> Next: More Challenges](./spirals5.md)

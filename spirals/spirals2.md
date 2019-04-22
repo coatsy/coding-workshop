@@ -1,6 +1,6 @@
 # Drawing a Line
 
-[|< Home](../)  
+[|< Home](/)  
 [<< Previous: Setting Up](./spirals1.md)  
 [>> Next: Drawing a Square](./spirals3.md)
 
@@ -84,6 +84,6 @@ Run your program by pressing the space key and notice that it always starts in t
 
 Enough of single lines, let's branch out into something more two-dimensional. Next we'll make a square.
 
-[|< Home](../)  
+[|< Home](/)  
 [<< Previous: Setting Up](./spirals1.md)  
 [>> Next: Drawing a Square](./spirals3.md)

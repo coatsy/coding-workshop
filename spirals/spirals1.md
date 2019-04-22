@@ -1,7 +1,7 @@
 # Setting Up
 
-[|< Home](../)
-[<< Previous: Spiral Introduction](./spirals0.md)
+[|< Home](/)  
+[<< Previous: Spiral Introduction](./spirals0.md)  
 [>> Next: Drawing a Line](./spirals2.md)
 
 To start, go to the [Scratch Editor](https://scratch.mit.edu/projects/editor/) website. You'll see something like this:
@@ -30,6 +30,6 @@ Some of these look pretty interesting, and we'll come back to this page in later
 
 Next we'll see how to use this added functionality.
 
-[|< Home](../)
-[<< Previous: Spiral Introduction](./spirals0.md)
+[|< Home](/)  
+[<< Previous: Spiral Introduction](./spirals0.md)  
 [>> Next: Drawing a Line](./spirals2.md)
