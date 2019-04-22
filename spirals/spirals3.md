@@ -1,12 +1,12 @@
 # Drawing a Square
 
-[|< Home](/)  
+[|< Home](../README.md)  
 [<< Previous: Drawing a Line](./spirals2.md)  
 [>> Next: Drawing a Spiral](./spirals4.md)
 
 
 
 
-[|< Home](/)  
+[|< Home](../README.md)  
 [<< Previous: Drawing a Line](./spirals2.md)  
 [>> Next: Drawing a Spiral](./spirals4.md)

@@ -1,6 +1,6 @@
 # Setting Up
 
-[|< Home](/)  
+[|< Home](../README.md)  
 [<< Previous: Spiral Introduction](./spirals0.md)  
 [>> Next: Drawing a Line](./spirals2.md)
 
@@ -30,6 +30,6 @@ Some of these look pretty interesting, and we'll come back to this page in later
 
 Next we'll see how to use this added functionality.
 
-[|< Home](/)  
+[|< Home](../README.md)  
 [<< Previous: Spiral Introduction](./spirals0.md)  
 [>> Next: Drawing a Line](./spirals2.md)

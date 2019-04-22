@@ -1,10 +1,10 @@
 # More Spiral Challenges
 
-[|< Home](/)  
+[|< Home](../README.md)  
 [<< Previous: Drawing a Spiral](./spirals4.md)
 
 
 
 
-[|< Home](/)  
+[|< Home](../README.md)  
 [<< Previous: Drawing a Spiral](./spirals4.md)

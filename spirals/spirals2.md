@@ -1,6 +1,6 @@
 # Drawing a Line
 
-[|< Home](/)  
+[|< Home](../README.md)  
 [<< Previous: Setting Up](./spirals1.md)  
 [>> Next: Drawing a Square](./spirals3.md)
 
@@ -48,7 +48,7 @@ Run your program by pressing the space key - you should see the cat move a small
 
 ![Your first program ran!](./images/first-program-ran.png)
 
-**Congratulations!** You just ran your program. 
+**Congratulations!** You just ran your program.
 
 It's a bit hard to see the line so let's make it a bit bigger.
 
@@ -84,6 +84,6 @@ Run your program by pressing the space key and notice that it always starts in t
 
 Enough of single lines, let's branch out into something more two-dimensional. Next we'll make a square.
 
-[|< Home](/)  
+[|< Home](../README.md)  
 [<< Previous: Setting Up](./spirals1.md)  
 [>> Next: Drawing a Square](./spirals3.md)
