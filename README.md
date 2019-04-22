@@ -10,7 +10,8 @@ Please follow the [appropriate checklist](./pre-requisites.md) for your computer
 
 ## Tutorials
 
-1. Getting Started
-1. Moving
-
-![stopping and starting](./images/stop-and-start.png)
+0. Pre-requisites
+0. Getting Started
+0. [Spirals and other shapes](./spirals/spirals0.md)
+0. Controlling the real world
+0. Making a game
