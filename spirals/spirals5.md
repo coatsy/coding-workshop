@@ -57,7 +57,7 @@ Change the value from 10 to 1 and then run the program. See the pretty colours.
 
 ![Pretty spiral](./images/set-colour-5.png)
 
-Awesome! you've built a rainbow spiral, now it's time to move onto some more challenges.
+Awesome! You've built a rainbow spiral, now it's time to move onto some more challenges.
 
 [|< Home](../README.md)  
 [<< Previous: Drawing a Spiral](./spirals4.md)  
