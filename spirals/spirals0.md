@@ -9,5 +9,16 @@ We can do something similar with Scratch using the pen module. We'll end up with
 
 ![Rainbow Spiral](./images/spiral.png)
 
+## Contents
+
+This tutorial consists of 6 sections:
+
+1. [Setting Up](./spirals1.md)
+1. [Drawing a Line](./spirals2.md)
+1. [Drawing a Square](./spirals3.md)
+1. [Drawing a Spiral](./spirals4.md)
+1. [Adding Colour](./spirals5.md)
+1. [More Challenges](./spirals6.md)
+
 [|< Home](../README.md)  
 [>> Next Setting Up](./spirals1.md)
