@@ -24,7 +24,11 @@ Notice that drawing 2 sides of a square actually involves doing the same thing t
 
 Move your mouse so it's over the first of the move blocks and click the right mouse button. A menu will pop up and you can choose "duplicate". This will make a copy of the block you right-clicked on and all the connected blocks below it.
 
+![Right-click to duplicate](./images/right-click-duplicate.png)
 
+Drag the duplicated blocks to the bottom of the program and slot them in. When you run the program now, you'll get a full square!
+
+![First square done](./images/square-completed.png)
 
 [|< Home](../README.md)  
 [<< Previous: Drawing a Line](./spirals2.md)  
