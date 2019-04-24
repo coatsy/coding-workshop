@@ -37,3 +37,14 @@ Now we can put the game in a state 1 (game over state), but it does nothing. Go 
 
 ![end game state](./images/end-game-state.png)
 
+### Flapping
+
+In the variable sprite put a when space is pressed. Under that put a set velocity to 5. Now when you press r and then space the bird should do up.
+
+![flapping](./images/flapping.png)
+
+### face where its going
+
+We what the bird to face to direction it is moving. So make a new variable called direction facing then in the birds forever put a set direction facing with a * operator in the first space of a - operaator. In the first * space put velocity in, for the second space put -8. In the other - space put -90. Under that put a point in direction and put direction facing variable in.
+
+![direction facing](./images/)
