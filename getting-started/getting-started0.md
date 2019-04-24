@@ -90,13 +90,40 @@ The coding area is made up of five main panes:
 
 ### Groups and Blocks
 
-### Extensions
+Areas 1 and 2 above are the place you'll find the components you use to build programs. Each control in area 1 brings a new set of blocks into view in area 2 when it's clicked.
+
+### Code
+
+Area 3 is where you drop code blocks (you'll see much more of this in the tutorials).
+
+### Output
+
+Area 4 is where the fruits of your labour are displayed. Here's where your game or other program will actually be displayed. You can expand the output window by pressing the Full Screen button so your program displays in the whole screen.
+
+### Sprite Selection
+
+Area 5 will become much more important as your programs get more complex.
+
+### Other Areas and Controls
+
+There are a few other areas in the scratch environment. The two you'll use in the tutorials here are Extensions and the Stage
+
+#### Extensions
+
+Extensions allow you to add new functionality to Scratch. At the moment, Extensions can only be written by the Scratch team, but eventually, other developers will be able to write extensions for Scratch developers to use.
+
+#### Stage
+
+The stage controls what your output windows looks like. You can set and change backdrops. This means that, for example, each level of a game could look different.
 
 ## Learning from Others
+
+One of the best ways to learn new techniques in Scratch is to look at how other people have achieved an effect. Studying others' code also helps you think about coding in new ways.
 
 ## More Scratch Resources
 
 - [Scratch FAQs](https://scratch.mit.edu/info/faq)
+- [Scratch Wiki](https://en.scratch-wiki.info/wiki/Scratch_Wiki_Home)
 - [Information for Parents](https://scratch.mit.edu/parents)
 
 [|< Home](../README.md)
