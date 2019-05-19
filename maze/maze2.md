@@ -68,6 +68,46 @@ Run the game and test that everything still runs just as it did before.
 
 ## Adding Controls
 
+The original author of the game used the arrow keys to control the ball in the maze. Your job now is to add the option to use the [WASD keys](https://en.m.wikipedia.org/wiki/Arrow_keys#WASD_keys) to move.
+
+MazeRunner uses the concept of a game loop - that is a sequence of instructions the computer runs as often as it can, responding to the conditions it finds each time it passes through the loop. 
+
+> ### Aside 
+>
+> An alternative to a game loop is to use an event-driven architecture where the computer waits for something to happen (like a key-press) and responds. This is how most turn-based games and most business software works as it reduces the load on the computer, allowing more complex things to happen with less resources. Real-time games though need to process changes to the screen as frequently as possible so often use a game loop. Loops like this are also often used when programming boards like Arduino and the BBC micro:bit.
+
+The game loop checks 6 different things, the first four are whether any of the movement keys are pressed and the last two check to see whether the ball has hit either the finish line or a wall.
+
+Each of the movement key checks is done inside it's own `if` block:
+
+![Movement checks in the game loop](./images/add-controls13.png)
+
+The left and right arrows change the ball's x position by -1 and 1 respectively and the up and down arrows change the ball's y position by 1 and -1 respectively.
+
+### Adding another key for movement
+
+To add the option to use the A key to move left we need to change the if statement to check whether the left arrow OR the A key is pressed (it doesn't matter if they both are, the ball should still move left). Grab just the `key left arrow pressed?` block and drag it onto some spare space in the code area.
+
+![Remove the left arrow check from the if block](./images/add-controls14.png)
+
+Now click the `Operators` group and drag an OR block into the empty space you just made in the if block. Your code should look something like this:
+
+![Add an OR operator to the if block](./images/add-controls15.png)
+
+Next, right-click on the `key left arrow pressed?` block you just removed and choose duplicate from the menu. Drag the copy you made into one of the slots in the OR block and drag the original into the other slot.
+
+Now, change one of the `left arrow` choices to `a`:
+
+![Fill in the OR operator options with the two alternative keys](./images/add-controls16.png)
+
+Repeat the steps above for each of the other movement control if statements and add the `d` key for right, the `w` key for up and the `s` key for down. Your code should now look like this:
+
+![All the new movement keys added](./images/add-controls17.png)
+
+Run the game and check that you can now control the movement of the ball with the `wasd` keys.
+
+Congratulations! Now you're ready to move on to [Connecting your BBC micro:bit](./maze3.md)
+
 [|< Home](../README.md)  
 [<< Previous: Standing on the shoulders of giants](./maze1.md)  
 [>> Next: Connecting your BBC micro:bit](./maze3.md)
