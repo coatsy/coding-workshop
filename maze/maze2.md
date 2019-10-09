@@ -66,15 +66,17 @@ Finally, if you want to, you can move the `SetupGame` definition across to be wi
 
 Run the game and test that everything still runs just as it did before.
 
+>By the way, did you notice that the `SetupGame` definition includes a call to another My Block (in this case the `BallToStart` block? This is fine - anything that can go in a block of code, including a call to a My Block can go within a My Block definition.
+
 ## Adding Controls
 
 The original author of the game used the arrow keys to control the ball in the maze. Your job now is to add the option to use the [WASD keys](https://en.m.wikipedia.org/wiki/Arrow_keys#WASD_keys) to move.
 
-MazeRunner uses the concept of a game loop - that is a sequence of instructions the computer runs as often as it can, responding to the conditions it finds each time it passes through the loop. 
+MazeRunner uses the concept of a game loop - that is a sequence of instructions the computer runs as often as it can, responding to the conditions it finds each time it passes through the loop.
 
-> ### Aside 
+> ### Aside
 >
-> An alternative to a game loop is to use an event-driven architecture where the computer waits for something to happen (like a key-press) and responds. This is how most turn-based games and most business software works as it reduces the load on the computer, allowing more complex things to happen with less resources. Real-time games though need to process changes to the screen as frequently as possible so often use a game loop. Loops like this are also often used when programming boards like Arduino and the BBC micro:bit.
+> An alternative to a game loop is to use an event-driven architecture where the computer waits for something to happen (like a key-press) and responds. This is how most turn-based games and most business software works as it reduces the load on the computer, allowing more complex things to happen with fewer resources.However, real-time games need to process changes to the screen as frequently as possible so often use a game loop. Loops like this are also often used when programming boards like Arduino and the BBC micro:bit.
 
 The game loop checks 6 different things, the first four are whether any of the movement keys are pressed and the last two check to see whether the ball has hit either the finish line or a wall.
 
