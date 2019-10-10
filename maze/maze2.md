@@ -106,7 +106,7 @@ Repeat the steps above for each of the other movement control if statements and 
 
 ![All the new movement keys added](./images/add-controls17.png)
 
-Run the game and check that you can now control the movement of the ball with the `WASD` keys.
+Run the game and check that you can now control the movement of the ball with the [`WASD`](https://en.m.wikipedia.org/wiki/Arrow_keys#WASD_keys) keys.
 
 Congratulations! Now you're ready to move on to [Connecting your BBC micro:bit](./maze3.md)
 
