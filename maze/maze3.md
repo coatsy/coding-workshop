@@ -38,18 +38,21 @@ Choose the micro:bit extension.
 
 ![Choose the micro:bit extension](./images/extensions2.png)
 
-You'll be returned to your project. Notice that the functions group now has an additional set of blocks for interacting with the micro:bit
+You'll be asked to connect your micro:bit. The easiest way to power it is to just plug it in via the USB port on your computer. Alternatively, if you have a battery pack you can use that. Your micro:bit connects via Bluetooth. If there are several micro:bits showing up in the connection window, you can identify yours by looking at the LEDs. There should be a set of 5 letters scrolling across them. Those letters are a unique label for your micro:bit and you can find that label in the list and connect to that one, then click the `Go to editor` button.
 
-![Function blocks with the micro:bit extension installed](./images/extensions3.png)
+![Connect to your micro:bit](./images/extensions5.png)
 
 >### Aside
 >
 >Note that you might get a message saying that you need to install some additional software called Scratch Link  
 ![You might need to install Scratch Link](./images/extensions4.png)
-> Click the help button and you'll be taken to a web page that allows you to install a program that helps scratch talk to the micro:bit over either your USB cable or over Bluetooth.  
-> Note that there are two versions, one for Windows and one for macOS
+>Click the help button and you'll be taken to a web page that allows you to install a program that helps scratch talk to the micro:bit over Bluetooth.  
+>Note that there are two versions, one for Windows and one for macOS.  
+>See the [pre-requisites page](../pre-requisites.md) for more information and instructions.
 
-The other thing you'll need to do is connect your micro:bit. The easiest way to do it is to just plug it in via the USB port on your computer. You can also connect via Bluetooth.
+You'll be returned to your project. Notice that the functions group now has an additional set of blocks for interacting with the micro:bit
+
+![Function blocks with the micro:bit extension installed](./images/extensions3.png)
 
 Now you're ready to use your micro:bit to control the ball in the maze.
 
