@@ -26,9 +26,9 @@ Until now, we've just been using the basic blocks for Scratch
 
 ![The basic Scratch blocks](./images/basic-blocks.png)
 
-Scratch has the concept of allowing people to create additional sets of blocks. These are called Extensions. These extensions are used to do all kinds of things includin playing music, drawing on the screen and interacting with microcomputers like the Micro:Bit.
+Scratch has the concept of allowing people to create additional sets of blocks. These are called Extensions. These extensions are used to do all kinds of things including playing music, drawing on the screen and interacting with microcomputers like the micro:bit.
 
-To allow us to interact with the Micro:Bit, we need to add the Micro:Bit extension to the project. Extensions are accessed through the Extensions button at the bottom-left of the screen:
+To allow us to interact with the micro:bit, we need to add the micro:bit extension to the project. Extensions are accessed through the Extensions button at the bottom-left of the screen:
 
 ![The Extensions Button in the Scratch Editor](./images/extensions1.png)
 
@@ -48,6 +48,10 @@ You'll be returned to your project. Notice that the functions group now has an a
 ![You might need to install Scratch Link](./images/extensions4.png)
 > Click the help button and you'll be taken to a web page that allows you to install a program that helps scratch talk to the micro:bit over either your USB cable or over Bluetooth.  
 > Note that there are two versions, one for Windows and one for macOS
+
+The other thing you'll need to do is connect your micro:bit. The easiest way to do it is to just plug it in via the USB port on your computer. You can also connect via Bluetooth.
+
+Now you're ready to use your micro:bit to control the ball in the maze.
 
 [|< Home](../README.md)  
 [<< Previous: Adding your own controls](./maze2.md)  

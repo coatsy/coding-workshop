@@ -5,7 +5,9 @@
 
 ## Timer
 
-Add a countdown timer to make it a bit harder to finish the maze
+Add a countdown timer to make it a bit harder to finish the maze.
+
+> **Hint** use the game object and start a timer
 
 ## Bonus objects
 
@@ -21,6 +23,10 @@ You could:
 
 * Make the ball go faster
 * Change the size of the ball
+
+## Add more backgrounds/mazes
+
+The background mazes used in the project you remixed were generated using an online maze generator. You could make some more. Instructions for making new mazes are [here](.\maze-images\README.md).
 
 [|< Home](../README.md)  
 [<< Previous: Adding a brake](./maze4.md)
