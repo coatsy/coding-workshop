@@ -64,6 +64,10 @@ Now move the actual game code. Drag the `forever` loop, including everything ins
 
 Finally, if you want to, you can move the `SetupGame` definition across to be with the other `My Block` definitions. This isn't required, but it's often considered good practice to keep all your `My Block` definitions together.
 
+You can zoom in and out on your programming canvas using the `+`,  `-` and `=` buttons. This can be useful for getting an overview of the program or zooming in to concentrate on a particular section.
+
+![Get an overview of your project or zoom in](./images/add-controls19.png)
+
 Run the game and test that everything still runs just as it did before.
 
 >By the way, did you notice that the `SetupGame` definition includes a call to another My Block (in this case the `BallToStart` block? This is fine - anything that can go in a block of code, including a call to a My Block can go within a My Block definition.
@@ -98,7 +102,11 @@ Now click the `Operators` group and drag an OR block into the empty space you ju
 
 Next, right-click on the `key left arrow pressed?` block you just removed and choose duplicate from the menu. Drag the copy you made into one of the slots in the OR block and drag the original into the other slot.
 
-Now, change one of the `left arrow` choices to `a`:
+Now, change one of the `left arrow` choices to `a` by dropping down the arrow next to `left arrow` and choosing `a`:
+
+![Change left arrow to a](./images/add-controls18.png)
+
+Your code should now look something like this:
 
 ![Fill in the OR operator options with the two alternative keys](./images/add-controls16.png)
 
@@ -106,7 +114,7 @@ Repeat the steps above for each of the other movement control if statements and 
 
 ![All the new movement keys added](./images/add-controls17.png)
 
-Run the game and check that you can now control the movement of the ball with the `WASD` keys.
+Run the game and check that you can now control the movement of the ball with the [`WASD`](https://en.m.wikipedia.org/wiki/Arrow_keys#WASD_keys) keys.
 
 Congratulations! Now you're ready to move on to [Connecting your BBC micro:bit](./maze3.md)
 
