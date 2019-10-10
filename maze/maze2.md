@@ -98,7 +98,11 @@ Now click the `Operators` group and drag an OR block into the empty space you ju
 
 Next, right-click on the `key left arrow pressed?` block you just removed and choose duplicate from the menu. Drag the copy you made into one of the slots in the OR block and drag the original into the other slot.
 
-Now, change one of the `left arrow` choices to `a`:
+Now, change one of the `left arrow` choices to `a` by dropping down the arrow next to `left arrow` and choosing `a`:
+
+![Change left arrow to a](./images/add-controls18.png)
+
+Your code should now look something like this:
 
 ![Fill in the OR operator options with the two alternative keys](./images/add-controls16.png)
 
