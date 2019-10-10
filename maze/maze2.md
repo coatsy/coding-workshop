@@ -58,7 +58,7 @@ Next, find the `SetupGame` block (or whatever you called it) in the My Blocks ar
 
 ![Add a call to your new My Block](./images/add-controls11.png)
 
-Now move the actual game code, that is everything inside the `forever` loop back under the `SetupGame` block.
+Now move the actual game code. Drag the `forever` loop, including everything inside the `forever` loop back under the `SetupGame` block.
 
 ![Put the main game blocks back into the main event block](./images/add-controls12.png)
 
@@ -106,7 +106,7 @@ Repeat the steps above for each of the other movement control if statements and 
 
 ![All the new movement keys added](./images/add-controls17.png)
 
-Run the game and check that you can now control the movement of the ball with the `wasd` keys.
+Run the game and check that you can now control the movement of the ball with the `WASD` keys.
 
 Congratulations! Now you're ready to move on to [Connecting your BBC micro:bit](./maze3.md)
 

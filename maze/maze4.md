@@ -34,7 +34,7 @@ Finally, change drop down the `any` option in the `tilted` block you just added 
 
 Run the game and try moving left by tilting your mico:bit.
 
-Next, follow the same procedure as above for the other three directions. Note that you might hav to experiment to work out which waw tilting front and back moves the ball.
+Next, follow the same procedure as above for the other three directions. Note that you might have to experiment to work out which way tilting front and back moves the ball.
 
 When you finish, your control code should look something like this:
 
