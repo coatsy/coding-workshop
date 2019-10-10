@@ -24,6 +24,17 @@ You could:
 * Make the ball go faster
 * Change the size of the ball
 
+## Display images on the micro:bit screen
+
+Maybe display an image using the micro:bit LEDs when you:
+
+* Finish a level; or
+* Bump into a wall
+
+## Add a moment's grace after starting a level
+
+Give the player a moment to have a look at the maze when starting a level so they don't justm bang into a wall and lose points straight away.
+
 ## Add more backgrounds/mazes
 
 The background mazes used in the project you remixed were generated using an online maze generator. You could make some more. Instructions for making new mazes are [here](.\maze-images\README.md).
