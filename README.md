@@ -3,6 +3,7 @@
 Support material for coding workshops at
 
 * [NDC Oslo](https://ndcoslo.com) (June 18 2019)
+* [NDC Sydney](https://ndcsydney.com) (October 15 2019)
 
 ## Pre-requisites
 

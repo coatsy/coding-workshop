@@ -35,6 +35,10 @@ Maybe display an image using the micro:bit LEDs when you:
 
 Give the player a moment to have a look at the maze when starting a level so they don't justm bang into a wall and lose points straight away.
 
+## Make the micro:bit into a steering wheel
+
+Change the direction of the ball based on the rotation of the micro:bit and use the butttons as an accellerator and a brake
+
 ## Add more backgrounds/mazes
 
 The background mazes used in the project you remixed were generated using an online maze generator. You could make some more. Instructions for making new mazes are [here](.\maze-images\README.md).
