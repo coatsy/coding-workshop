@@ -58,7 +58,7 @@ Next, find the `SetupGame` block (or whatever you called it) in the My Blocks ar
 
 ![Add a call to your new My Block](./images/add-controls11.png)
 
-Now move the actual game code, that is everything inside the `forever` loop back under the `SetupGame` block.
+Now move the actual game code. Drag the `forever` loop, including everything inside the `forever` loop back under the `SetupGame` block.
 
 ![Put the main game blocks back into the main event block](./images/add-controls12.png)
 
