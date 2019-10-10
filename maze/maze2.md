@@ -64,6 +64,10 @@ Now move the actual game code. Drag the `forever` loop, including everything ins
 
 Finally, if you want to, you can move the `SetupGame` definition across to be with the other `My Block` definitions. This isn't required, but it's often considered good practice to keep all your `My Block` definitions together.
 
+You can zoom in and out on your programming canvas using the `+`,  `-` and `=` buttons. This can be useful for getting an overview of the program or zooming in to concentrate on a particular section.
+
+![Get an overview of your project or zoom in](./images/add-controls19.png)
+
 Run the game and test that everything still runs just as it did before.
 
 >By the way, did you notice that the `SetupGame` definition includes a call to another My Block (in this case the `BallToStart` block? This is fine - anything that can go in a block of code, including a call to a My Block can go within a My Block definition.
