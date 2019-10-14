@@ -1,4 +1,4 @@
-# Flappy Bird
+# Bouncy Bird
 
 ## Bird
 
@@ -6,7 +6,7 @@
 
 First thing we are going to do is get the bird. If you right-click the image bellow and save it where you choose, you can then go back on scratch and click on the costume at the top left. if you hover over the choose icon button and go up to the upload and click. then in that pop-up you find the image you saved, select it and then click open.
 
-![Flappy Bird](./images/flappy-bird.png)
+![Bouncy Bird](./images/bouncy-bird.png)
 ![bird-loading](./images/bird-loading.png)
 
 You will see on the right that the bird is very big. change to size to 25.
