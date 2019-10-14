@@ -22,7 +22,12 @@ The picture above (taken from the [micro:bit features page](https://www.microbit
 
 ### Installing the Scratch micro:bit Support
 
-To enable Scratch to work with the micro:bit you need to install software on your computer, update the software running on the micro:bit, and add the micro:bit extension to Scratch.
+To enable Scratch to work with the micro:bit you need to:
+
+1. install software on your computer, 
+2. update the software running on the micro:bit,
+3. add the micro:bit extension to Scratch,
+4. and finally, verify the micro:bit extension installed
 
 #### Step 1. Install and start Scratch Link you to your computer
 
