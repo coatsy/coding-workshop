@@ -24,10 +24,12 @@ The picture above (taken from the [micro:bit features page](https://www.microbit
 
 To enable Scratch to work with the micro:bit you need to:
 
-1. install software on your computer, 
-2. update the software running on the micro:bit,
-3. add the micro:bit extension to Scratch,
-4. and finally, verify the micro:bit extension installed
+1. Install software on your computer
+2. Update the software running on the micro:bit,
+3. Add the micro:bit extension to Scratch
+4. Start micro:bit Connection
+5. Verify the micro:bit extension installed
+6. Connect the Battery Pack
 
 #### Step 1. Install and start Scratch Link you to your computer
 
@@ -51,7 +53,6 @@ Scratch has the concept of allowing people to create additional sets of blocks. 
 
 Extensions are accessed through the Extensions button at the bottom-left of the screen:
 
-
 ![The Extensions Button in the Scratch Editor](./images/scratch-add-extension.png)
 
 Clicking this button will take you to another page which shows all the available extensions:
@@ -60,7 +61,19 @@ Choose the **micro:bit extension**.
 
 ![Choose the micro:bit extension](./images/extensions2.png)
 
-### Step 4. Verify the micro:bit Extension is Enabled
+### Step 4. Start the micro:bit Connection
+
+1. Click **Connect** to start a Bluetooth connection to between your computer and the micro:bit.
+
+    If there are several micro:bits showing up in the connection window, you can identify yours by looking at the LEDs on the micro:bit. There should be a set of 5 letters scrolling across them. Those letters are a unique label for your micro:bit and you can find that label in the list and connect to that one.
+
+    ![Connect to your micro:bit](./images/extensions5.png)
+    <br/>
+2. Finally, click the `Go to editor` button.
+
+    ![](./images/extensions6.png)
+
+### Step 5. Verify the micro:bit Extension is Enabled
 
 You will be returned to your project. Notice that the functions group now has an additional set of blocks for interacting with the micro:bit
 
@@ -68,15 +81,17 @@ You will be returned to your project. Notice that the functions group now has an
 
 Now you're ready to use your micro:bit to control the ball in the maze.
 
+### Step 6. Connect the Battery Pack
+
+Finally, if you have a micro:bit battery pack you can connect it to the the micro:bit and unplug the USB cable.
+
+![](./images/micro-bit-battery-pack.gif)
+
 ## Troubleshooting
 
 Follow the troubleshooting guide on the [Scratch/micro:bit support page](https://scratch.mit.edu/microbit).
 
-## Bluetooth Support
 
-If you have a micro:bit battery pack then you can also connect to your micro:bit to your computer via Bluetooth. If there are several micro:bits showing up in the connection window, you can identify yours by looking at the LEDs. There should be a set of 5 letters scrolling across them. Those letters are a unique label for your micro:bit and you can find that label in the list and connect to that one, then click the `Go to editor` button.
-
-![Connect to your micro:bit](./images/extensions5.png)
 
 
 [|< Home](../README.md)  
