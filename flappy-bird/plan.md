@@ -20,6 +20,8 @@
 
 ## game elements
 
+### background
+
 ### score
 
 ### speeds up
