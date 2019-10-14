@@ -6,9 +6,11 @@
 
 As a starting point, the MazeRunner game uses the keyboard arrow keys to move the ball. In this part of the tutorial you will examine the code used to do that and add your own code to also allow the use of the WSAD keys.
 
-Examine the code that runs when the green flag is pressed - the blocks that live under the event block that looks like this:
+Examine the code that runs when the green flag is pressed. All of that code lives under this block here:
 
 ![Green flag event block](./images/add-controls1.png)
+
+which is called an event block.
 
 The first two blocks reset the maze to the first backdrop in the list of backdrops and ensures that the ball is the correct colour.
 
@@ -24,9 +26,12 @@ This block tells scratch to look for another set of blocks with that name and to
 
 ![The BallToStart My Block](./images/add-controls4.png)
 
-Other programming languages call this type of block `functions` or `methods` and they're useful for a couple of reasons.
-
-Firstly, they allow you to get a bunch of code out of the way so things are easier to read. Secondly, and probably more importantly, they allow you to define functionality that is used more than once, so rather than having to copy code or repeat it somehow, you can just call the MyBlock from wherever that bit of work needs to be done. Have a look and see if you can find somewhere else in the code where the `BallToStart` block is used.
+> ### Aside
+>Other programming languages call these types of block `functions` or `methods` and they're useful for a couple of reasons.  
+>  
+>Firstly, they allow you to get a bunch of code out of the way so things are easier to read.  
+>  
+> Secondly, and probably more importantly, they allow you to define functionality that is used more than once, so rather than having to copy code or repeat it somehow, you can just call the MyBlock from wherever that bit of work needs to be done. Have a look and see if you can find somewhere else in the code where the `BallToStart` block is used.
 
 ### Creating a My Block
 
@@ -70,6 +75,7 @@ You can zoom in and out on your programming canvas using the `+`,  `-` and `=` b
 
 Run the game and test that everything still runs just as it did before.
 
+> ### Aside
 >By the way, did you notice that the `SetupGame` definition includes a call to another My Block (in this case the `BallToStart` block? This is fine - anything that can go in a block of code, including a call to a My Block can go within a My Block definition.
 
 ## Adding Controls
