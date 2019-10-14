@@ -20,7 +20,6 @@ The picture above (taken from the [micro:bit features page](https://www.microbit
 * [USB connector](https://www.microbit.org/guide/features/#usb) (to power the board)
 * radio and [Bluetooth](https://www.microbit.org/guide/features/#bluetooth) antenna (to communicate to your game)
 
-
 ### Installing the Scratch micro:bit Support
 
 To enable Scratch to work with the micro:bit you need to install software on your computer, update the software running on the micro:bit, and add the micro:bit extension to Scratch.
@@ -56,7 +55,7 @@ Choose the **micro:bit extension**.
 
 ![Choose the micro:bit extension](./images/extensions2.png)
 
-### Step 4 Verify the micro:bit Extension is Enabled
+### Step 4. Verify the micro:bit Extension is Enabled
 
 You will be returned to your project. Notice that the functions group now has an additional set of blocks for interacting with the micro:bit
 
