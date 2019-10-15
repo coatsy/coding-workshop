@@ -14,5 +14,5 @@ Please follow the [appropriate checklist](./pre-requisites.md) for your computer
 0. [Pre-requisites](./pre-requisites.md)
 0. [Getting Started](./getting-started/getting-started0.md)
 0. [Spirals and other shapes](./spirals/spirals0.md)
-0. [Making a game](./bouncy-bird/Bird.md)
+0. [Making a game](./bouncy-bird/bouncy-bird0.md)
 0. [Controlling the real world](./maze/maze0.md)

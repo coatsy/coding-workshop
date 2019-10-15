@@ -15,7 +15,7 @@ You will see on the right that the bird is very big. change to size to 25.
 
 ### Gravity
 
-First thing we are going to do is make a new sprite by clicking on the cat in the bottom right corner. You can then choose what ever one you want because it is going to be hiden. Then grab a when space is pressed from the events. Click on the drop down and change it to r. Then in the looks area put the hide block under the new event.
+First thing we are going to do is make a new sprite by clicking on the cat in the bottom right corner. You can then choose what ever one you want because it is going to be hiden. Then grab a `when space is pressed` from the events. Click on the drop down and change it to r. Then in the looks area put the hide block under the new event.
 
 ![new sprite](./images/new-sprite.png)
 
