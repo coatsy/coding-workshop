@@ -1,4 +1,4 @@
-# Flappy Bird
+# Bouncy Bird
 
 ## Bird
 
@@ -6,7 +6,7 @@
 
 First thing we are going to do is get the bird. If you right-click the image bellow and save it where you choose, you can then go back on scratch and click on the costume at the top left. if you hover over the choose icon button and go up to the upload and click. then in that pop-up you find the image you saved, select it and then click open.
 
-![Flappy Bird](./images/flappy-bird.png)
+![Bouncy Bird](./images/bouncy-bird.png)
 ![bird-loading](./images/bird-loading.png)
 
 You will see on the right that the bird is very big. change to size to 25.
@@ -15,7 +15,7 @@ You will see on the right that the bird is very big. change to size to 25.
 
 ### Gravity
 
-First thing we are going to do is make a new sprite by clicking on the cat in the bottom right corner. You can then choose what ever one you want because it is going to be hiden. Then grab a when space is pressed from the events. Click on the drop down and change it to r. Then in the looks area put the hide block under the new event.
+First thing we are going to do is make a new sprite by clicking on the cat in the bottom right corner. You can then choose what ever one you want because it is going to be hiden. Then grab a `when space is pressed` from the events. Click on the drop down and change it to r. Then in the looks area put the hide block under the new event.
 
 ![new sprite](./images/new-sprite.png)
 
