@@ -1,5 +1,0 @@
-## pipe
-
-first step to make the pipes is to save the pipe image below and hover over the new sprite button and go up to the upload sprite. Then open the new saved file. right click on the new sprite and duplicate it. One for the bottom and one for the top. Now create 3 variables height, pipe x and game speed. In the variable sprite under the hide put 3 set variables. Set the first one to game speed, second to pipe x and the third to height. Set the the game speed to -5, pipe x to 250 and height to random operation from -100 to -350. In the forever put a change pipe x by game speed and under that an if pipe x < -249 then. In the if put two sets and a change. Set the first set to height, set two to pipe x and the change to game speed by -0.5, first set to random -100 to -350 and the second set to 250.
-
-![pipe variables](./images/pipe-variables.png)
