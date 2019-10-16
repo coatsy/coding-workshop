@@ -14,7 +14,5 @@ Here are some suggestions for making the game more interesting
 
 There's a sample of the game with all of these enhancements done at [https://scratch.mit.edu/projects/336349459](https://scratch.mit.edu/projects/336349459)
 
-<iframe src="https://scratch.mit.edu/projects/336349459/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
 [|< Home](../README.md)  
 [<< Previous: Adding pipes](./bouncy-bird4.md)  
