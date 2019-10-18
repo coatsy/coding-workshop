@@ -27,6 +27,7 @@ This block tells scratch to look for another set of blocks with that name and to
 ![The BallToStart My Block](./images/add-controls4.png)
 
 > ### Aside
+>
 >Other programming languages call these types of block `functions` or `methods` and they're useful for a couple of reasons.  
 >  
 >Firstly, they allow you to get a bunch of code out of the way so things are easier to read.  
@@ -76,6 +77,7 @@ You can zoom in and out on your programming canvas using the `+`,  `-` and `=` b
 Run the game and test that everything still runs just as it did before.
 
 > ### Aside
+>
 >By the way, did you notice that the `SetupGame` definition includes a call to another My Block (in this case the `BallToStart` block? This is fine - anything that can go in a block of code, including a call to a My Block can go within a My Block definition.
 
 ## Adding Controls
@@ -86,11 +88,11 @@ MazeRunner uses the concept of a game loop - that is a sequence of instructions 
 
 > ### Aside
 >
-> An alternative to a game loop is to use an event-driven architecture where the computer waits for something to happen (like a key-press) and responds. This is how most turn-based games and most business software works as it reduces the load on the computer, allowing more complex things to happen with fewer resources.However, real-time games need to process changes to the screen as frequently as possible so often use a game loop. Loops like this are also often used when programming boards like Arduino and the BBC micro:bit.
+> An alternative to a game loop is to use an event-driven architecture where the computer waits for something to happen (like a key-press) and responds. This is how most turn-based games and most business software works as it reduces the load on the computer, allowing more complex things to happen with fewer resources. However, real-time games need to process changes to the screen as frequently as possible so often use a game loop. Loops like this are also often used when programming boards like Arduino and the BBC micro:bit.
 
 The game loop checks 6 different things, the first four are whether any of the movement keys are pressed and the last two check to see whether the ball has hit either the finish line or a wall.
 
-Each of the movement key checks is done inside it's own `if` block:
+Each of the movement key checks is done inside its own `if` block:
 
 ![Movement checks in the game loop](./images/add-controls13.png)
 

@@ -8,7 +8,7 @@ Now we will make the bird move. The way the game works is that whenever the spac
 
 To make this work we need two different bits of code controlling the bird, one that happens all the time (making it fall) and one that happens when the space key is pressed (making it flap and rise).
 
-How fast and in which direction the birs is moving is called its velocity, so we'll create a variable to store that value.
+How fast and in which direction the bird is moving is called its velocity, so we'll create a variable to store that value.
 
 In the `Variables` group, click the `Make a Variable` button and call the variable `velocity`
 
@@ -16,10 +16,11 @@ In the `Variables` group, click the `Make a Variable` button and call the variab
 
 ![Name the variable velocity](./images/bouncy-bird7.png)
 
-> ### Aside
-> Notice that, by default, the value of variables you create are displayed in the output window. This can sometimes be very uiseful when you're debugging, but you can turn the display off for your final game for most variables by unchecking the box next to the variable name in the `Variables` group. One exception might be the score.
+> ## Aside
+>
+> Notice that, by default, the value of variables you create are displayed in the output window. This can sometimes be very useful when you're debugging, but you can turn the display off for your final game for most variables by unchecking the box next to the variable name in the `Variables` group. One exception might be the score.
 
-### Make the bird fall
+## Make the bird fall
 
 To make the bird accelerate as though it's falling, its velocity should decrease all the time. This calls for a `Forever loop` that starts as soon as the game starts.
 
@@ -27,7 +28,7 @@ As the game starts when the green flag is pressed, drag a `when green flag click
 
 ![Accelerate forever](./images/bouncy-bird8.png)
 
-Now drag a `change my variable by 1` block from the `Variables` group into the `forever loop`. Drop-down the `my variable` and change it to `velocity`, and change the amound from `1` to `-0.5`
+Now drag a `change my variable by 1` block from the `Variables` group into the `forever loop`. Drop-down the `my variable` and change it to `velocity`, and change the amount from `1` to `-0.5`
 
 ![Acceleration goes down](./images/bouncy-bird9.png)
 
@@ -41,9 +42,9 @@ Drag a `velocity` block from the `Variables` group to replace the `10`.
 
 ![Now the bird will fall](./images/bouncy-bird10.png)
 
-Run the program by clicking on the green flag and watch the bird fall to the bottom on the screen.
+Run the program by clicking on the green flag and watch the bird fall to the bottom of the screen.
 
-### Make the bird flap
+## Make the bird flap
 
 Now it's time to add the spacebar flapping mechanic.
 

@@ -4,7 +4,7 @@
 
 ## PC (Windows)
 
-To start with the lessons, you will need a browser. You should already have Edge on your computor or you can download [Chrome](https://www.google.com.au/chrome/).
+To start with the lessons, you will need a browser. You should already have Edge on your computer or you can download [Chrome](https://www.google.com.au/chrome/).
 
 ![Chrome download page](./images/chrome-download.PNG)
 
