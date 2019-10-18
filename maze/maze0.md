@@ -21,7 +21,7 @@ By the end of this tutorial you will have:
 This tutorial consists of 6 sections:
 
 1. [Standing on the shoulders of giants](./maze1.md)
-2. [Adding you own controls](./maze2.md)
+2. [Adding your own controls](./maze2.md)
 3. [Connecting your BBC micro:bit](./maze3.md)
 4. [Controlling the game with tilt](./maze4.md)
 5. [Adding a brake](./maze5.md)

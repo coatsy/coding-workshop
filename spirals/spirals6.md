@@ -13,7 +13,7 @@ Here are some more spirals created using just the code you've already written, j
 
 ![Repeat = 800, Change pen colour by 0.125, Change counter by 0.25, Turn 119 degrees](./images/challenge-4.png)
 
-See if you can work out how to make regular-sided figures or to add extra colours.
+See if you can work out how to make regular-sided figures or add extra colours.
 
 You can play with a number of these parameters in the <a href="https://scratch.mit.edu/projects/303918558/" target="_blank">Spiral Playground</a>. Click See Inside to change the values. Press the s key to create a spiral.
 

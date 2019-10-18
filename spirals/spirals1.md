@@ -16,7 +16,7 @@ First the one you'll want to do. Make the cat character smaller - it gets in the
 
 The second thing to do is to add support for a pen. Scratch has a concept of extensions that add functionality. There's lots more information about scratch extensions on the [Scratch Wiki](https://en.scratch-wiki.info/wiki/Scratch_Extension), but for now just follow along.
 
-Right down in the bottom-left of the screen there's a button that looks like this:
+Right down in the bottom-left of the screen, there's a button that looks like this:
 
 ![Add extension button](./images/add-extension-button.png)
 
@@ -28,7 +28,7 @@ Some of these look pretty interesting, and we'll come back to this page in later
 
 ![pen extension added](./images/pen-extension-added.png)
 
-Next we'll see how to use this added functionality.
+Next, we'll see how to use this added functionality.
 
 [|< Home](../README.md)  
 [<< Previous: Spiral Introduction](./spirals0.md)  

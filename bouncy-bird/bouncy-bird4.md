@@ -26,7 +26,7 @@ Create 2 variables called `pipeX` and `pipeSpeed` by clicking on the `Make a Var
 
 ![Pipe control variables ready](./images/bouncy-bird14.png)
 
-Now the pipe needs to be moved every frame whilever the game is running - in a `forever loop`.
+Now the pipe needs to be moved every frame while ever the game is running - in a `forever loop`.
 
 * Drag a `when green flag clicked` block from the `Events` group onto the code canvas.
 * Add a `forever loop` from the `Control` group directly below it
@@ -35,13 +35,13 @@ Now the pipe needs to be moved every frame whilever the game is running - in a `
 
 ![Moving the pipe](./images/bouncy-bird15.png)
 
-Now we need to change the pipeX value over time. We do that in the bird `forever loop` to keep things in one neat place and avoid setting variables in multiple loops which can lead to unpredictable results if one loop happes slightly before another.
+Now we need to change the pipeX value over time. We do that in the bird `forever loop` to keep things in one neat place and avoid setting variables in multiple loops which can lead to unpredictable results if one loop happens slightly before another.
 
 Click on the `bouncy-bird` sprite tile to bring the bouncy-bird code back.
 
 ![Control code in the bird sprite](./images/bouncy-bird16.png)
 
-There are now two things to do: change the `pipeX` variable (which wuill move the pipes) and check whether the bird is touching a pipe.
+There are now two things to do: change the `pipeX` variable (which will move the pipes) and check whether the bird is touching a pipe.
 
 At the start of the game, we need to set a pipe speed.
 
@@ -57,15 +57,15 @@ Every time we go through the loop we need to change the `pipeX` value
 * Enter `-1` in the left space in the `*` operator
 * Drag a `pipeSpeed` variable block from the `Variables` group to the right space in the `*` operator
 
-Run the game, the pipe should move across the screen, and then get stuck on the left hand side.
+Run the game, the pipe should move across the screen, and then get stuck on the left-hand side.
 
 ![Moving the pipe](./images/bouncy-bird17.png)
 
 We need to check if the pipe is on the left and if so, move it to the right.
 
 * Drag an `if then` block from the `Control` group to an empty part of the code canvas
-* Put a `< 50` block from the `Operators` grouip into the `if` clause of th the `if then` block
-* put a `pipeX` variable block intot he blank spave in the `< 50` operator from the `Varibles` group
+* Put a `< 50` block from the `Operators` group into the `if` clause of th the `if then` block
+* put a `pipeX` variable block into the blank space in the `< 50` operator from the `Varibles` group
 * Change the `50` to `-252`
 * Drag a `set my variable to 0` block from the `Variables` group into the `if pipeX < -252 then` block
 * change `my variable` to `pipeX` and `0` to `252`
@@ -73,7 +73,7 @@ We need to check if the pipe is on the left and if so, move it to the right.
 
 ![Moving the pipe and moving it back](./images/bouncy-bird18.png)
 
-Run the game, the pipe should move across the screen, and then pop back to the right hand side.
+Run the game, the pipe should move across the screen, and then pop back to the right-hand side.
 
 ## Adding another pipe
 
@@ -87,14 +87,14 @@ This puts the pipe upside down and above the other pipe.
 
 ![Two pipes, equal and opposite](./images/bouncy-bird20.png)
 
-Run the game, the pipe should move across the screen, and then pop back to the right hand side.
+Run the game, both pipes should move across the screen, and then pop back to the right-hand side.
 
 ## Detect pipe collision
 
 Now we just need to detect whether the bird runs into either pipe.
 
 * Click back on the `bouncy-bird` sprite tile to select the control code
-* Drag an `or` block from the `Operators` group onto a blabk space on the code canvas
+* Drag an `or` block from the `Operators` group onto a blank space on the code canvas
 * Drag a `touching mouse-pointer ?` block from the `Sensing` group into one of the blank spaces on the `or` operator
 * Change the `mouse-pointer` to `pipe`
 * Drag another `touching mouse-pointer ?` block from the `Sensing` group into the other blank space on the `or` operator
@@ -118,7 +118,7 @@ Run the game and you should be able to keep going indefinitely unless you run in
 
 ## Enhancements
 
-There are many things that can be done to make the game more fun. See the next section fro some ideas.
+You can do lots of things to make the game more fun. See the next section for some ideas.
 
 [|< Home](../README.md)  
 [<< Previous: Detecting collisions](./bouncy-bird3.md)  

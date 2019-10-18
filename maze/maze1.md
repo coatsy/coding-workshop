@@ -6,13 +6,13 @@
 
 One of the great things about scratch is that it's designed to encourage sharing of your projects and building on the work of others. In this tutorial you're going to take a simple maze game that someone else has written and enhance it with new controls.
 
-Rather than starting from scratch (pardon the pun), you're going to use an existing project as a starting point. In Scratch this is called "remixing".
+Rather than starting from scratch (pardon the pun), you're going to use an existing project as a starting point. In Scratch, this is called "remixing".
 
 The project you'll be remixing is called MazeRunner. Open it by clicking on this link [https://scratch.mit.edu/projects/305304451](https://scratch.mit.edu/projects/305304451). You should see something like this
 
 ![MazeRunner Project Page](./images/mazerunner.png)
 
-To play the game, click the green flag and then control the ball through the maze from the blue start line to the green finish line using your arrow keys. You might find it easier if you click the full screen button to make the game bigger.
+To play the game, click the green flag and then control the ball through the maze from the blue start line to the green finish line using your arrow keys. You might find it easier if you click the full-screen button to make the game bigger.
 
 Each time you run into a wall you lose a point. Each time you get to the finish you get 10 points.
 

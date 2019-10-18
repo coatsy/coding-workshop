@@ -82,7 +82,7 @@ When you've finished inserting the blocks to reset the state, your scratch works
 
 Run your program by pressing the space key and notice that it always starts in the same place and finishes in the same place. In fact, it might run so fast that you don't see it change at all. That's ok, it just means your computer moves faster than you can see.
 
-Enough of single lines, let's branch out into something more two-dimensional. Next we'll make a square.
+Enough of single lines, let's branch out into something more two-dimensional. Next, we'll make a square.
 
 [|< Home](../README.md)  
 [<< Previous: Setting Up](./spirals1.md)  

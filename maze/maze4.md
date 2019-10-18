@@ -4,13 +4,13 @@
 [<< Previous: Connecting your BBC micro:bit](./maze3.md)  
 [>> Next: Adding a brake](./maze5.md)
 
-Just like in the section on [Adding you own controls](./maze2.md), you can use the micro:bit to control the ball in the maze.
+Just like in the section on [Adding your own controls](./maze2.md), you can use the micro:bit to control the ball in the maze.
 
 Find the section of code that responds to the keys being pressed:
 
 ![Movement control code](./images/mb-controls1.png)
 
-Instead of just reacting to keys being pressed, you're going to be able to tilt the microbit and have the ball react to the way the board is being tilted. Tilt it left, the ball will go left, tilt it right, the bll will go right. Similarly for up and down.
+Instead of just reacting to keys being pressed, you're going to be able to tilt the micro:bit and have the ball react to the way the board is being tilted. Tilt it left, the ball will go left, tilt it right, the ball will go right. Similarly for up and down.
 
 Start by picking up the `left arrow or a key pressed` block and move it to a spare bit of the screen.
 
@@ -32,7 +32,7 @@ Finally, change drop down the `any` option in the `tilted` block you just added 
 
 ![Use a left tilt to move left](./images/mb-controls6.png)
 
-Run the game and try moving left by tilting your mico:bit.
+Run the game and try moving left by tilting your micro:bit.
 
 Next, follow the same procedure as above for the other three directions. Note that you might have to experiment to work out which way tilting front and back moves the ball.
 

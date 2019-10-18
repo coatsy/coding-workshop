@@ -34,7 +34,7 @@ Now we're ready to start the spiral loop. Drag a `Repeat 10 times` block from th
 
 Just like making a square, building a spiral is just doing two things over and over again, moving and turning. The only extra thing to do is change how far the movement should be.
 
-Each time we go through the loop we want to move a little further, so each time we're going to change the value of counter by 1. There's a block fro that in the Variables group. Add that block inside the loop.
+Each time we go through the loop we want to move a little further, so each time we're going to change the value of counter by 1. There's a block for that in the `Variables` group. Add that block inside the loop.
 
 ![Increment the counter each time through the loop](./images/spiral-loop-2.png)
 

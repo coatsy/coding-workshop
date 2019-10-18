@@ -15,7 +15,7 @@ Remember that whenever you drag a part of the program, all of the blocks underne
 1. Drag them off the program
 1. Put spiral loop bits back
 
-Find the first `Move 100 steps` block - right after the `pen down` block and drag it just to the side of the program - still within the program pane. Don't worry if you make a mistake Ctrl+Z (on a PC) or Command+Z (on a Mac) will undo any mistakes you make.
+Find the first `Move 100 steps` block - right after the `pen down` block and drag it just to the side of the program - still within the program pane. Don't worry if you make a mistake, Ctrl+Z (on a PC) or Command+Z (on a Mac) will undo any mistakes you make.
 
 ![Move the square logic off the program](./images/clean-up-1.png)
 

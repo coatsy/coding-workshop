@@ -40,7 +40,7 @@ While you're at it, change the x and y values to 0 so the bird sits in the middl
 
 ![Bird ready to bounce](./images/bouncy-bird5.png)
 
-Now it's time to moe on to making the bird fly
+Now it's time to move on to making the bird fly
 
 [|< Home](../README.md)  
 [<< Previous: Making a game](./bouncy-bird0.md)  
