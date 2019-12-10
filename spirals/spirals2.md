@@ -71,7 +71,7 @@ At the start of every run we want:
 
 Each of these is a block. The first two are Motion blocks and the last two are Pen blocks. Find the applicable blocks and drag them into your program in the right order.
 
-You may need to re-arrange the order of some of the blocks. To do this you need to separate them from the program blocks above, then move any blocks below. A good way to think about this is to realise that any block you drag will also move all the block below it, but none above it.
+You may need to re-arrange the order of some of the blocks. To do this you need to separate them from the program blocks above, then move any blocks below. A good way to think about this is to realise that any block you drag will also move all the blocks below it, but none above it.
 
 When you've finished inserting the blocks to reset the state, your scratch workspace should look something like this:
 
