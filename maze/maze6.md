@@ -41,7 +41,7 @@ Change the direction of the ball based on the rotation of the micro:bit and use 
 
 ## Add more backgrounds/mazes
 
-The background mazes used in the project you remixed were generated using an online maze generator. You could make some more. Instructions for making new mazes are [here](.\maze-images\README.md).
+The background mazes used in the project you remixed were generated using an online maze generator. You could make some more. Instructions for making new mazes are [here](./maze-images/README.md).
 
 [|< Home](../README.md)  
 [<< Previous: Adding a brake](./maze4.md)
