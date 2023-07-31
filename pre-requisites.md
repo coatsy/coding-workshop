@@ -8,7 +8,7 @@ To start with the lessons, you will need a browser. You should already have Edge
 
 ![Chrome download page](./images/chrome-download.PNG)
 
-You will also need to download and install [Scratch Link](https://www.microsoft.com/en-au/p/scratch-link/9n48xllczh0x?lc=3081&activetab=pivot%3Aoverviewtab).
+If you're planning to use the micro:bit section, you will also need to download and install [Scratch Link](https://www.microsoft.com/en-au/p/scratch-link/9n48xllczh0x?lc=3081&activetab=pivot%3Aoverviewtab).
 
 ![Scratch Link download page](./images/scratch-link-download-page.PNG)
 
